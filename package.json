@@ -1,0 +1,23 @@
+{
+  "name": "Curso webpack basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego S. Markiewicz",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^9.0.0",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
